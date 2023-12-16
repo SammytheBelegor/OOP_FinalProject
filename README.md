@@ -6,7 +6,7 @@
 
 **Link to Feedbacks:** 
 
-## Team: Bael , Syrgak Abdurakhmanov
+## Team: Baiel Saparaliev , Syrgak Abdurakhmanov
 
 ## Description:  
 This is our final OOP project, which we made by 
