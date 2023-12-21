@@ -2,9 +2,9 @@
 
 **Project Name:** ToDo App 
 
-**YouTube presentation:**
+**YouTube presentation:** Yet to do
 
-**Link to Feedbacks:** 
+**Link to Presentation & Feedbacks:** https://drive.google.com/drive/folders/19-0yix4XKHSa5tgJ8yx9zyJLjnedkvZF?usp=sharing
 
 ## Team: Baiel Saparaliev , Syrgak Abdurakhmanov
 
