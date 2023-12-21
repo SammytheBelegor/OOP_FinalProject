@@ -9,9 +9,7 @@
 ## Team: Baiel Saparaliev , Syrgak Abdurakhmanov
 
 ## Roles of Group Members: 
-Baiel:
 Baiel focused on writing the program's logic and implementing the database functionality.
-Syrgak:
 Syrgak led the creation of the user interface using SceneBuilder and contributed to coding tasks.
 
 ## Description:  
