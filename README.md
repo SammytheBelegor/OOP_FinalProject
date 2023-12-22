@@ -1,6 +1,6 @@
 # OOP final group project
 
-**Project Name:** ToDo App 
+**Project Name:** Bilingual
 
 **YouTube presentation:** Yet to do
 
@@ -10,25 +10,22 @@
 
 ## Roles of Group Members: 
 Baiel focused on writing the program's logic and implementing the database functionality.
-Syrgak led the creation of the user interface using SceneBuilder and contributed to coding tasks.
+Syrgak led the creation of the user interface using Figma and contributed to coding tasks.
 
 ## Description:  
 This is our final OOP project, which we made by 
-_JavaFx, SceneBuilder and PostgreSql_ programs.  
-Where users can signup, login, create and delete their tasks.  
+Spring, Spring Boot, Spring Data Jpa, Spring Web, Figma and PostgreSql, etc.  
+Where users can create tests and attempt it.  
 All that tasks will be saved in psql database and deleted if needed.
 
 ## How to run:
-- First download or clone files
-- Open sql file in Postgre
-- Rewrite db configurations in config class
+It is already deployed.
+Link: http://billingual.peaksoftprojects.com/swagger-ui/index.html#/question%20API
 
 ## Screenshots
-Login, signup pages  
-- ![Login page](/oop_screenshots/login.PNG)
-- ![signup](/oop_screenshots/signup.PNG)
+![Screenshot (88)](https://github.com/SammytheBelegor/OOP_FinalProject/assets/71520900/9590d24d-9dfd-4bf1-8561-92acfbe00caf)
+![Screenshot (89)](https://github.com/SammytheBelegor/OOP_FinalProject/assets/71520900/06c57102-cf29-4fb7-a157-10108d1f40aa)
+![Screenshot (90)](https://github.com/SammytheBelegor/OOP_FinalProject/assets/71520900/ebdf3553-b1b4-447a-8d05-d97cec4075cf)
+![Screenshot (91)](https://github.com/SammytheBelegor/OOP_FinalProject/assets/71520900/07586b6c-0774-4a52-858f-5a28d6bb77c6)
 
-Add task and task List screens
-- ![](/oop_screenshots/addtask.PNG)
-- ![](/oop_screenshots/tasllist.PNG)
 
